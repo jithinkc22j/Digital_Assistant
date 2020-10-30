@@ -1,0 +1,1 @@
+chmod 777 main.sh interface.sh initialization.sh intro.sh greetings.sh welcome.sh date_check.sh time_check.sh firewall.sh deactivatefirewall.sh power_check.sh brightness_update.sh ngcheck.sh weather_update.sh sys_vul.sh system_cpu.sh myip.sh ii.sh pattern_jk.sh volume_update.sh
